@@ -8,7 +8,7 @@ import About from "./pages/About.jsx";
 import Contact from "./pages/Contact.jsx";
 import Createpd from "./pages/products/Createpd.jsx";
 import Deletepd from "./pages/products/Deletepd.jsx";
-import ProductList from "./pages/products/productList.jsx";
+import ProductList from "./pages/products/ProductList.jsx";
 import NotFound from "./pages/Error/Notfound.jsx";
 import Login from "./pages/auth/Login.jsx";
 import Register from "./pages/auth/Register.jsx";
