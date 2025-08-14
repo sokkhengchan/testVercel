@@ -18,10 +18,11 @@ const firebaseConfig = {
   apiKey: "AIzaSyDUexknqHyGlzTUmJfT5BmFRLEEsN1I9B8",
   authDomain: "fir-react-afternoon.firebaseapp.com",
   projectId: "fir-react-afternoon",
-  storageBucket: "fir-react-afternoon.appspot.com",
+  storageBucket: "fir-react-afternoon.firebasestorage.app",
   messagingSenderId: "543948223078",
-  appId: "1:543948223078:web:9b8361ca71dbfc075e33a7",
+  appId: "1:543948223078:web:9b8361ca71dbfc075e33a7"
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
