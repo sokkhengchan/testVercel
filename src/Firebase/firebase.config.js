@@ -15,12 +15,12 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBBSbBFg1F4eYqiwCVh0DrM1E1jfe_KWzY",
-  authDomain: "react-fire-base-80542.firebaseapp.com",
-  projectId: "react-fire-base-80542",
-  storageBucket: "react-fire-base-80542.firebasestorage.app",
-  messagingSenderId: "812383168890",
-  appId: "1:812383168890:web:513df6ed04214d01aa0ec3"
+  apiKey: "AIzaSyDUexknqHyGlzTUmJfT5BmFRLEEsN1I9B8",
+  authDomain: "fir-react-afternoon.firebaseapp.com",
+  projectId: "fir-react-afternoon",
+  storageBucket: "fir-react-afternoon.appspot.com",
+  messagingSenderId: "543948223078",
+  appId: "1:543948223078:web:9b8361ca71dbfc075e33a7",
 };
 
 // Initialize Firebase
